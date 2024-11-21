@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.7256e7fb.css",
-    "main.js": "/static/js/main.6daaee51.js",
+    "main.js": "/static/js/main.95cbf11a.js",
     "static/media/myntra.png": "/static/media/myntra.9390ca4333a6a2b845ec.png",
     "static/media/shopbay.png": "/static/media/shopbay.8d419d54c152d0fc9c93.png",
     "static/media/Sau.png": "/static/media/Sau.4061cba65fca4ed74093.png",
@@ -10,8 +10,8 @@
     "static/media/Python-logo.png": "/static/media/Python-logo.dea924d737bb84eb9ce3.png",
     "static/media/linux.png": "/static/media/linux.b79d9a382fd8984cff12.png",
     "static/media/rnwlogo.png": "/static/media/rnwlogo.23943be4be33e31d13a3.png",
-    "static/media/Dharamvir-Resume.pdf": "/static/media/Dharamvir-Resume.3a262ad6c2587e0366e5.pdf",
     "static/media/rnw-logo.png": "/static/media/rnw-logo.c60615b779cecb096751.png",
+    "static/media/Dharamvir-Resume.pdf": "/static/media/Dharamvir-Resume.d33574dac0010a899965.pdf",
     "static/media/CSS3-logo.png": "/static/media/CSS3-logo.b3314d1beb073984276d.png",
     "static/media/vscode-logo.png": "/static/media/vscode-logo.691f776a11a21a483030.png",
     "static/media/CPP-logo.png": "/static/media/CPP-logo.053a898d752aef72651e.png",
@@ -24,10 +24,10 @@
     "static/media/java-logo.svg": "/static/media/java-logo.a751bad6c81431ab4dd6.svg",
     "index.html": "/index.html",
     "main.7256e7fb.css.map": "/static/css/main.7256e7fb.css.map",
-    "main.6daaee51.js.map": "/static/js/main.6daaee51.js.map"
+    "main.95cbf11a.js.map": "/static/js/main.95cbf11a.js.map"
   },
   "entrypoints": [
     "static/css/main.7256e7fb.css",
-    "static/js/main.6daaee51.js"
+    "static/js/main.95cbf11a.js"
   ]
 }
